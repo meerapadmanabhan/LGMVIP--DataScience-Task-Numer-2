@@ -1,0 +1,5 @@
+There are multiple variables in the dataset – date, open, high, low, last, close, total_trade_quantity, and turnover.
+
+The columns Open and Close represent the starting and final price at which the stock is traded on a particular day.
+High, Low and Last represent the maximum, minimum, and last price of the share for the day.
+Total Trade Quantity is the number of shares bought or sold in the day and Turnover (Lacs) is the turnover of the particular company on a given date.
